@@ -13,7 +13,7 @@ This project develops a machine learning model for fraud detection on **GrowBank
 - Excel & Tableau (visualization, dashboards)
 
 ## 📁 Files
-- pptx: Analysis and modeling summary  
+- pdf: Analysis and modeling summary  
 - pynb: Interactive Python notebook
 - twbx: Tableau dashboard for fraud KPIs  
 
